@@ -14,6 +14,48 @@
 		<input type="search" placeholder="Search...">
 	</header>
 	<main>
+<```
+<section class="featured-businesses">
+	<h2>Featured Businesses</h2>
+	<ul>
+		<li>
+			<img src="(link unavailable)" alt="Business 1">
+			<h3>Business 1</h3>
+			<p>Description of Business 1</p>
+		</li>
+		<li>
+			<img src="(link unavailable)" alt="Business 2">
+			<h3>Business 2</h3>
+			<p>Description of Business 2</p>
+		</li>
+	</ul>
+</section>
+
+<section class="business-categories">
+	<h2>Business Categories</h2>
+	<ul>
+		<li><a href="#">Category 1</a></li>
+		<li><a href="#">Category 2</a></li>
+		<li><a href="#">Category 3</a></li>
+	</ul>
+</section>
+
+<section class="recent-listings">
+	<h2>Recent Listings</h2>
+	<ul>
+		<li>
+			<img src="(link unavailable)" alt="Listing 1">
+			<h3>Listing 1</h3>
+			<p>Description of Listing 1</p>
+		</li>
+		<li>
+			<img src="(link unavailable)" alt="Listing 2">
+			<h3>Listing 2</h3>
+			<p>Description of Listing 2</p>
+		</li>
+	</ul>
+</section>
+```>
 		<!-- Featured businesses will go here -->
 		<!-- Business categories will go here -->
 		<!-- Recent listings will go here -->
