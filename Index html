@@ -1,1 +1,32 @@
-X
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Pixel2</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<header>
+		<div class="logo">Pixel2</div>
+		<input type="search" placeholder="Search...">
+	</header>
+	<main>
+		<!-- Featured businesses will go here -->
+		<!-- Business categories will go here -->
+		<!-- Recent listings will go here -->
+	</main>
+	<footer>
+		<!-- Contact information will go here -->
+		<!-- Terms and conditions will go here -->
+		<!-- Privacy policy will go here -->
+	</footer>
+	<script src="script.js"></script>
+</body>
+</html>
+```
+
+
+
